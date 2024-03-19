@@ -1,0 +1,269 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+Ememdatamips
+Z0 w1649241827
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 7
+Z4 dC:/Users/eduar/OneDrive/Escritorio/UAM/EC/P4
+Z5 8C:/Users/eduar/OneDrive/Documentos/Downloads/Soluciones/MemDataMIPS.vhd
+Z6 FC:/Users/eduar/OneDrive/Documentos/Downloads/Soluciones/MemDataMIPS.vhd
+l0
+Z7 L15 1
+VlXJmd2:I32jdiG:GT6b_i3
+!s100 jiCXc69E1:G`_UTPGDb<=0
+Z8 OV;C;2020.1;71
+33
+Z9 !s110 1655979379
+!i10b 1
+Z10 !s108 1655979379.000000
+Z11 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/eduar/OneDrive/Documentos/Downloads/Soluciones/MemDataMIPS.vhd|
+Z12 !s107 C:/Users/eduar/OneDrive/Documentos/Downloads/Soluciones/MemDataMIPS.vhd|
+!i113 1
+Z13 o-work work -2008 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Asimple
+R1
+R2
+R3
+DEx4 work 11 memdatamips 0 22 lXJmd2:I32jdiG:GT6b_i3
+!i122 7
+l33
+L26 54
+VBfAP]nO3U@]@VMY=K@<9m2
+!s100 <_6MD>??DjK@Q?iH`iC<K2
+R8
+33
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ememprogmips
+Z15 w1649241820
+R1
+R2
+R3
+!i122 8
+R4
+Z16 8C:/Users/eduar/OneDrive/Documentos/Downloads/Soluciones/MemProgMIPS.vhd
+Z17 FC:/Users/eduar/OneDrive/Documentos/Downloads/Soluciones/MemProgMIPS.vhd
+l0
+Z18 L14 1
+V7oZ<[bN<<7;GdT1M>[:8G2
+!s100 9B7GTnMjndnK_DmA@S`8@3
+R8
+33
+R9
+!i10b 1
+R10
+Z19 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/eduar/OneDrive/Documentos/Downloads/Soluciones/MemProgMIPS.vhd|
+Z20 !s107 C:/Users/eduar/OneDrive/Documentos/Downloads/Soluciones/MemProgMIPS.vhd|
+!i113 1
+R13
+R14
+Asimple
+R1
+R2
+R3
+DEx4 work 11 memprogmips 0 22 7oZ<[bN<<7;GdT1M>[:8G2
+!i122 8
+l23
+L21 50
+V>>3U50`e>Wgz47VE@GW_c0
+!s100 N_E8hzSg>EfHRde62;KIn1
+R8
+33
+R9
+!i10b 1
+R10
+R19
+R20
+!i113 1
+R13
+R14
+Emicromips
+Z21 w1649241581
+R1
+R2
+R3
+!i122 2
+R4
+Z22 8C:/Users/eduar/OneDrive/Documentos/Downloads/ArchivosTutoria_Pr4/MicroMIPS.vhd
+Z23 FC:/Users/eduar/OneDrive/Documentos/Downloads/ArchivosTutoria_Pr4/MicroMIPS.vhd
+l0
+R18
+Vg3F85E=d6XPnOX5UnSWoJ1
+!s100 hK7gVeGYc4AEcTemXKQTU1
+R8
+33
+Z24 !s110 1655979126
+!i10b 1
+Z25 !s108 1655979126.000000
+Z26 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/eduar/OneDrive/Documentos/Downloads/ArchivosTutoria_Pr4/MicroMIPS.vhd|
+Z27 !s107 C:/Users/eduar/OneDrive/Documentos/Downloads/ArchivosTutoria_Pr4/MicroMIPS.vhd|
+!i113 1
+R13
+R14
+Apractica3
+R1
+R2
+R3
+DEx4 work 9 micromips 0 22 g3F85E=d6XPnOX5UnSWoJ1
+!i122 2
+l29
+L26 7
+VnnGTZ5;UHW_O7iWIh^R5S2
+!s100 GA:FN>^_3L`>4G0hf?g;F2
+R8
+33
+R24
+!i10b 1
+R25
+R26
+R27
+!i113 1
+R13
+R14
+Emicromipstb
+Z28 w1649241534
+R1
+R2
+R3
+!i122 5
+R4
+Z29 8C:/Users/eduar/OneDrive/Documentos/Downloads/ArchivosTutoria_Pr4/MicroMIPSTb.vhd
+Z30 FC:/Users/eduar/OneDrive/Documentos/Downloads/ArchivosTutoria_Pr4/MicroMIPSTb.vhd
+l0
+R7
+V^=A1T[dBZ8H@<:ah0G;2R3
+!s100 ?[3`Vm8aUDim]4dM8g[PL0
+R8
+33
+R9
+!i10b 1
+R10
+Z31 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/eduar/OneDrive/Documentos/Downloads/ArchivosTutoria_Pr4/MicroMIPSTb.vhd|
+Z32 !s107 C:/Users/eduar/OneDrive/Documentos/Downloads/ArchivosTutoria_Pr4/MicroMIPSTb.vhd|
+!i113 1
+R13
+R14
+Atest
+R1
+R2
+R3
+DEx4 work 11 micromipstb 0 22 ^=A1T[dBZ8H@<:ah0G;2R3
+!i122 5
+l73
+L18 116
+V<fUjWDAJkK>P0bBU6U]ZK1
+!s100 0OmAG4;8TK^afio<kGbSI1
+R8
+33
+R9
+!i10b 1
+R10
+R31
+R32
+!i113 1
+R13
+R14
+Eregsmips
+Z33 w1649241860
+R1
+R2
+R3
+!i122 9
+R4
+Z34 8C:/Users/eduar/OneDrive/Documentos/Downloads/Soluciones/RegsMIPS.vhd
+Z35 FC:/Users/eduar/OneDrive/Documentos/Downloads/Soluciones/RegsMIPS.vhd
+l0
+R18
+Vg@<2^<ZoQFPg6]>[o`EUY2
+!s100 hl2RGHn6SH^LIfB46@PG40
+R8
+33
+R9
+!i10b 1
+R10
+Z36 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/eduar/OneDrive/Documentos/Downloads/Soluciones/RegsMIPS.vhd|
+!s107 C:/Users/eduar/OneDrive/Documentos/Downloads/Soluciones/RegsMIPS.vhd|
+!i113 1
+R13
+R14
+Apractica
+R1
+R2
+R3
+DEx4 work 8 regsmips 0 22 g@<2^<ZoQFPg6]>[o`EUY2
+!i122 9
+l38
+L28 49
+VNli7=fY?d>kI8V]o@z2U50
+!s100 8nOYG`TQJLI6nzI^T8jAd1
+R8
+33
+R9
+!i10b 1
+R10
+R36
+Z37 !s107 C:/Users/eduar/OneDrive/Documentos/Downloads/Soluciones/RegsMIPS.vhd|
+!i113 1
+R13
+R14
+Eunidadcontroltb
+Z38 w1650443118
+R1
+R2
+R3
+!i122 6
+R4
+Z39 8C:/Users/eduar/OneDrive/Documentos/Downloads/ArchivosTutoria_Pr4/UnidadControlTb.vhd
+Z40 FC:/Users/eduar/OneDrive/Documentos/Downloads/ArchivosTutoria_Pr4/UnidadControlTb.vhd
+l0
+R7
+V>F1d=48S1WRZ[;1M>[QNA1
+!s100 A4jMY4L[G0zQK8?h9`eOi0
+R8
+33
+R9
+!i10b 1
+R10
+Z41 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/eduar/OneDrive/Documentos/Downloads/ArchivosTutoria_Pr4/UnidadControlTb.vhd|
+Z42 !s107 C:/Users/eduar/OneDrive/Documentos/Downloads/ArchivosTutoria_Pr4/UnidadControlTb.vhd|
+!i113 1
+R13
+R14
+Abehavior
+R1
+R2
+R3
+DEx4 work 15 unidadcontroltb 0 22 >F1d=48S1WRZ[;1M>[QNA1
+!i122 6
+l128
+L18 170
+V7U[6_Y]DO3oQzjGWP6Pj93
+!s100 Fce>?e6NZOi<clKioR@IJ2
+R8
+33
+R9
+!i10b 1
+R10
+R41
+R42
+!i113 1
+R13
+R14

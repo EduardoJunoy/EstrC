@@ -1,0 +1,742 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/eduar/OneDrive/Escritorio/UAM/EC/P2
+Ealumips
+Z0 w1645632390
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 19
+Z4 dC:/Users/eduar/OneDrive/Escritorio/UAM/EC
+Z5 8C:/Users/eduar/Downloads/Soluciones/ALUMIPS.vhd
+Z6 FC:/Users/eduar/Downloads/Soluciones/ALUMIPS.vhd
+l0
+Z7 L14 1
+VaKlOG1^N2=0989fQb0ob^2
+!s100 o`mHamaiknjnWF;42HLI61
+Z8 OV;C;2020.1;71
+33
+Z9 !s110 1652168033
+!i10b 1
+Z10 !s108 1652168033.000000
+Z11 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/eduar/Downloads/Soluciones/ALUMIPS.vhd|
+Z12 !s107 C:/Users/eduar/Downloads/Soluciones/ALUMIPS.vhd|
+!i113 1
+Z13 o-work work -2008 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Apractica
+R1
+R2
+R3
+DEx4 work 7 alumips 0 22 aKlOG1^N2=0989fQb0ob^2
+!i122 19
+l27
+L24 30
+VLSFaYRzV9cm02jG9[OXzc1
+!s100 h;`3chHTI5O`id=GMczmX1
+R8
+33
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ealumipstb
+Z15 w1644506227
+R1
+R2
+R3
+!i122 5
+R4
+Z16 8C:/Users/eduar/OneDrive/Escritorio/UAM/EC/P2/ALUMIPSTb.vhd
+Z17 FC:/Users/eduar/OneDrive/Escritorio/UAM/EC/P2/ALUMIPSTb.vhd
+l0
+Z18 L16 1
+V_IZ67QB4MhQ:P4c:YmcmB2
+!s100 ;Kimi6WZIiFG_EDnmWe;j1
+R8
+33
+Z19 !s110 1646680330
+!i10b 1
+Z20 !s108 1646680330.000000
+Z21 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/eduar/OneDrive/Escritorio/UAM/EC/P2/ALUMIPSTb.vhd|
+Z22 !s107 C:/Users/eduar/OneDrive/Escritorio/UAM/EC/P2/ALUMIPSTb.vhd|
+!i113 1
+R13
+R14
+Apractica
+R1
+R2
+R3
+DEx4 work 9 alumipstb 0 22 _IZ67QB4MhQ:P4c:YmcmB2
+!i122 5
+l149
+L19 373
+V:TNcHcY9VnP>?kDkAz^m`1
+!s100 J2`Flg8bEIFL:9]U?Wc4@2
+R8
+33
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R13
+R14
+Econtador_tb
+Z23 w1600872425
+R1
+R2
+R3
+!i122 0
+R4
+Z24 8C:/Users/eduar/OneDrive/Escritorio/UAM/EC/P1/Contador_Tb.vhd
+Z25 FC:/Users/eduar/OneDrive/Escritorio/UAM/EC/P1/Contador_Tb.vhd
+l0
+Z26 L13 1
+VEBzRSh`iFkhf9E522WoE=2
+!s100 6U^Dn5z`O_L?lDdAIcbO:1
+R8
+33
+Z27 !s110 1646679756
+!i10b 1
+Z28 !s108 1646679756.000000
+Z29 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/eduar/OneDrive/Escritorio/UAM/EC/P1/Contador_Tb.vhd|
+Z30 !s107 C:/Users/eduar/OneDrive/Escritorio/UAM/EC/P1/Contador_Tb.vhd|
+!i113 1
+R13
+R14
+Asimulador
+R1
+R2
+R3
+DEx4 work 11 contador_tb 0 22 EBzRSh`iFkhf9E522WoE=2
+!i122 0
+l38
+L19 82
+V0G2m]89T9VQ2RoVfeEZNP1
+!s100 Qz1hjlTI35Xh:?[2DMA:<3
+R8
+33
+R27
+!i10b 1
+R28
+R29
+R30
+!i113 1
+R13
+R14
+Edeco3a8
+Z31 w1613482283
+R1
+R2
+R3
+!i122 1
+R4
+Z32 8C:/Users/eduar/OneDrive/Escritorio/UAM/EC/P1/Deco3a8.vhd
+Z33 FC:/Users/eduar/OneDrive/Escritorio/UAM/EC/P1/Deco3a8.vhd
+l0
+R26
+V?C<jELYYZb<cWmED`FIBE2
+!s100 _[PoKo;MEk5AfzKZ9<L6b2
+R8
+33
+Z34 !s110 1646679757
+!i10b 1
+R28
+Z35 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/eduar/OneDrive/Escritorio/UAM/EC/P1/Deco3a8.vhd|
+Z36 !s107 C:/Users/eduar/OneDrive/Escritorio/UAM/EC/P1/Deco3a8.vhd|
+!i113 1
+R13
+R14
+Apractica
+R1
+R2
+R3
+DEx4 work 7 deco3a8 0 22 ?C<jELYYZb<cWmED`FIBE2
+!i122 1
+l22
+L20 19
+V_[DTcIdTMQePAO6UfeQLT2
+!s100 zo[d@;9FmjW4R9Om15_d90
+R8
+33
+R34
+!i10b 1
+R28
+R35
+R36
+!i113 1
+R13
+R14
+Edeco3a8reg
+Z37 w1613482302
+R1
+R2
+R3
+!i122 2
+R4
+Z38 8C:/Users/eduar/OneDrive/Escritorio/UAM/EC/P1/Deco3a8Reg.vhd
+Z39 FC:/Users/eduar/OneDrive/Escritorio/UAM/EC/P1/Deco3a8Reg.vhd
+l0
+L12 1
+Vz;imV05KLzkkIe0MRI9KH0
+!s100 Fj7ckSWORO2[]f4<SBGVc3
+R8
+33
+R34
+!i10b 1
+Z40 !s108 1646679757.000000
+Z41 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/eduar/OneDrive/Escritorio/UAM/EC/P1/Deco3a8Reg.vhd|
+Z42 !s107 C:/Users/eduar/OneDrive/Escritorio/UAM/EC/P1/Deco3a8Reg.vhd|
+!i113 1
+R13
+R14
+Apractica
+R1
+R2
+R3
+DEx4 work 10 deco3a8reg 0 22 z;imV05KLzkkIe0MRI9KH0
+!i122 2
+l46
+L22 32
+VzX2cTeCP^lkdJnlO@;KjQ2
+!s100 OI^1D@OeFX@>Uk?UlZ:8W1
+R8
+33
+R34
+!i10b 1
+R40
+R41
+R42
+!i113 1
+R13
+R14
+Ememdatamips
+Z43 w1649241827
+R1
+R2
+R3
+!i122 20
+R4
+Z44 8C:/Users/eduar/Downloads/Soluciones/MemDataMIPS.vhd
+Z45 FC:/Users/eduar/Downloads/Soluciones/MemDataMIPS.vhd
+l0
+Z46 L15 1
+VlXJmd2:I32jdiG:GT6b_i3
+!s100 jiCXc69E1:G`_UTPGDb<=0
+R8
+33
+R9
+!i10b 1
+R10
+Z47 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/eduar/Downloads/Soluciones/MemDataMIPS.vhd|
+Z48 !s107 C:/Users/eduar/Downloads/Soluciones/MemDataMIPS.vhd|
+!i113 1
+R13
+R14
+Asimple
+R1
+R2
+R3
+DEx4 work 11 memdatamips 0 22 lXJmd2:I32jdiG:GT6b_i3
+!i122 20
+l33
+L26 54
+VBfAP]nO3U@]@VMY=K@<9m2
+!s100 <_6MD>??DjK@Q?iH`iC<K2
+R8
+33
+R9
+!i10b 1
+R10
+R47
+R48
+!i113 1
+R13
+R14
+Ememprogmips
+Z49 w1649241820
+R1
+R2
+R3
+!i122 21
+R4
+Z50 8C:/Users/eduar/Downloads/Soluciones/MemProgMIPS.vhd
+Z51 FC:/Users/eduar/Downloads/Soluciones/MemProgMIPS.vhd
+l0
+R7
+V7oZ<[bN<<7;GdT1M>[:8G2
+!s100 9B7GTnMjndnK_DmA@S`8@3
+R8
+33
+R9
+!i10b 1
+R10
+Z52 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/eduar/Downloads/Soluciones/MemProgMIPS.vhd|
+Z53 !s107 C:/Users/eduar/Downloads/Soluciones/MemProgMIPS.vhd|
+!i113 1
+R13
+R14
+Asimple
+R1
+R2
+R3
+DEx4 work 11 memprogmips 0 22 7oZ<[bN<<7;GdT1M>[:8G2
+!i122 21
+l23
+L21 50
+V>>3U50`e>Wgz47VE@GW_c0
+!s100 N_E8hzSg>EfHRde62;KIn1
+R8
+33
+R9
+!i10b 1
+R10
+R52
+R53
+!i113 1
+R13
+R14
+Ememprogsuma
+Z54 w1644506231
+R1
+R2
+R3
+!i122 6
+R4
+Z55 8C:/Users/eduar/OneDrive/Escritorio/UAM/EC/P2/MemProgSUMA.vhd
+Z56 FC:/Users/eduar/OneDrive/Escritorio/UAM/EC/P2/MemProgSUMA.vhd
+l0
+R46
+V1OilDTDbGmY=PfljmE9cA3
+!s100 3h5@i`3_m3^mPS3LS;CUb1
+R8
+33
+Z57 !s110 1646680331
+!i10b 1
+R20
+Z58 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/eduar/OneDrive/Escritorio/UAM/EC/P2/MemProgSUMA.vhd|
+Z59 !s107 C:/Users/eduar/OneDrive/Escritorio/UAM/EC/P2/MemProgSUMA.vhd|
+!i113 1
+R13
+R14
+Asimple
+R1
+R2
+R3
+DEx4 work 11 memprogsuma 0 22 1OilDTDbGmY=PfljmE9cA3
+!i122 6
+l24
+L22 20
+VICl7`XMi?l9<b_Ci6nbh?1
+!s100 Z6fA89hRh2<:2<UlIUH2L3
+R8
+33
+R57
+!i10b 1
+R20
+R58
+R59
+!i113 1
+R13
+R14
+Emicromips
+Z60 w1649241834
+R1
+R2
+R3
+!i122 22
+R4
+Z61 8C:/Users/eduar/Downloads/Soluciones/MicroMIPS.vhd
+Z62 FC:/Users/eduar/Downloads/Soluciones/MicroMIPS.vhd
+l0
+R7
+Vg3F85E=d6XPnOX5UnSWoJ1
+!s100 hK7gVeGYc4AEcTemXKQTU1
+R8
+33
+Z63 !s110 1652168034
+!i10b 1
+R10
+Z64 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/eduar/Downloads/Soluciones/MicroMIPS.vhd|
+Z65 !s107 C:/Users/eduar/Downloads/Soluciones/MicroMIPS.vhd|
+!i113 1
+R13
+R14
+Atest
+R1
+R2
+R3
+DEx4 work 9 micromips 0 22 g3F85E=d6XPnOX5UnSWoJ1
+!i122 22
+l82
+L26 120
+VhLjIU]SXYJN@:8goY[dd;2
+!s100 QhNRB5C=W6^>R@4T[DZIh3
+R8
+33
+R63
+!i10b 1
+R10
+R64
+R65
+!i113 1
+R13
+R14
+Emicromipstb
+Z66 w1649241853
+R1
+R2
+R3
+!i122 23
+R4
+Z67 8C:/Users/eduar/Downloads/Soluciones/MicroMIPSTb.vhd
+Z68 FC:/Users/eduar/Downloads/Soluciones/MicroMIPSTb.vhd
+l0
+R46
+V^=A1T[dBZ8H@<:ah0G;2R3
+!s100 ?[3`Vm8aUDim]4dM8g[PL0
+R8
+33
+R63
+!i10b 1
+Z69 !s108 1652168034.000000
+Z70 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/eduar/Downloads/Soluciones/MicroMIPSTb.vhd|
+Z71 !s107 C:/Users/eduar/Downloads/Soluciones/MicroMIPSTb.vhd|
+!i113 1
+R13
+R14
+Atest
+R1
+R2
+R3
+DEx4 work 11 micromipstb 0 22 ^=A1T[dBZ8H@<:ah0G;2R3
+!i122 23
+l73
+L18 116
+V<fUjWDAJkK>P0bBU6U]ZK1
+!s100 0OmAG4;8TK^afio<kGbSI1
+R8
+33
+R63
+!i10b 1
+R69
+R70
+R71
+!i113 1
+R13
+R14
+Emicrosuma
+Z72 w1645632396
+R1
+R2
+R3
+!i122 7
+R4
+Z73 8C:/Users/eduar/OneDrive/Escritorio/UAM/EC/P2/MicroSuma.vhd
+Z74 FC:/Users/eduar/OneDrive/Escritorio/UAM/EC/P2/MicroSuma.vhd
+l0
+R7
+VD>aogjZiLnbMjMbgec`LK2
+!s100 3Ni@iX5L:4RYh_b3[VA1Z2
+R8
+33
+R57
+!i10b 1
+Z75 !s108 1646680331.000000
+Z76 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/eduar/OneDrive/Escritorio/UAM/EC/P2/MicroSuma.vhd|
+Z77 !s107 C:/Users/eduar/OneDrive/Escritorio/UAM/EC/P2/MicroSuma.vhd|
+!i113 1
+R13
+R14
+Apractica
+R1
+R2
+R3
+DEx4 work 9 microsuma 0 22 D>aogjZiLnbMjMbgec`LK2
+!i122 7
+l58
+L23 66
+V>bfF;fi89mh[QTdZW`f873
+!s100 GAJ?c]<C6enMCY:EF:5XP1
+R8
+33
+R57
+!i10b 1
+R75
+R76
+R77
+!i113 1
+R13
+R14
+Emicrosumatb
+Z78 w1644506240
+R1
+R2
+R3
+!i122 8
+R4
+Z79 8C:/Users/eduar/OneDrive/Escritorio/UAM/EC/P2/MicroSumaTb.vhd
+Z80 FC:/Users/eduar/OneDrive/Escritorio/UAM/EC/P2/MicroSumaTb.vhd
+l0
+R7
+V6BDz>7C9eTl_;E>Xzd[bE2
+!s100 @:3VcJb]270^HGmD:]nCW0
+R8
+33
+R57
+!i10b 1
+R75
+Z81 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/eduar/OneDrive/Escritorio/UAM/EC/P2/MicroSumaTb.vhd|
+Z82 !s107 C:/Users/eduar/OneDrive/Escritorio/UAM/EC/P2/MicroSumaTb.vhd|
+!i113 1
+R13
+R14
+Atest
+R1
+R2
+R3
+DEx4 work 11 microsumatb 0 22 6BDz>7C9eTl_;E>Xzd[bE2
+!i122 8
+l53
+L17 81
+VHPfFOfMFIIzi;3c?>KW=i3
+!s100 aF7H:zkC@_9j2aVULNkH50
+R8
+33
+R57
+!i10b 1
+R75
+R81
+R82
+!i113 1
+R13
+R14
+Ereg8b
+Z83 w1613482323
+R1
+R2
+R3
+!i122 3
+R4
+Z84 8C:/Users/eduar/OneDrive/Escritorio/UAM/EC/P1/Reg8b.vhd
+Z85 FC:/Users/eduar/OneDrive/Escritorio/UAM/EC/P1/Reg8b.vhd
+l0
+L18 1
+VTC9E91bM>1WCVTXo01K>20
+!s100 4Iheb8cTee<P3QTAUCaA^1
+R8
+33
+R34
+!i10b 1
+R40
+Z86 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/eduar/OneDrive/Escritorio/UAM/EC/P1/Reg8b.vhd|
+Z87 !s107 C:/Users/eduar/OneDrive/Escritorio/UAM/EC/P1/Reg8b.vhd|
+!i113 1
+R13
+R14
+Apractica
+R1
+R2
+R3
+DEx4 work 5 reg8b 0 22 TC9E91bM>1WCVTXo01K>20
+!i122 3
+l30
+L28 19
+V_T>97a>PGeh^XWL`>HJ<G0
+!s100 ]1IeN16kP]eWmN8[O=W1Z0
+R8
+33
+R34
+!i10b 1
+R40
+R86
+R87
+!i113 1
+R13
+R14
+Eregsmips
+Z88 w1649241860
+R1
+R2
+R3
+!i122 24
+R4
+Z89 8C:/Users/eduar/Downloads/Soluciones/RegsMIPS.vhd
+Z90 FC:/Users/eduar/Downloads/Soluciones/RegsMIPS.vhd
+l0
+R7
+Vg@<2^<ZoQFPg6]>[o`EUY2
+!s100 hl2RGHn6SH^LIfB46@PG40
+R8
+33
+R63
+!i10b 1
+R69
+Z91 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/eduar/Downloads/Soluciones/RegsMIPS.vhd|
+Z92 !s107 C:/Users/eduar/Downloads/Soluciones/RegsMIPS.vhd|
+!i113 1
+R13
+R14
+Apractica
+R1
+R2
+R3
+DEx4 work 8 regsmips 0 22 g@<2^<ZoQFPg6]>[o`EUY2
+!i122 24
+l38
+L28 49
+VNli7=fY?d>kI8V]o@z2U50
+!s100 8nOYG`TQJLI6nzI^T8jAd1
+R8
+33
+R63
+!i10b 1
+R69
+R91
+R92
+!i113 1
+R13
+R14
+Eregsmipstb
+Z93 w1644506258
+R1
+R2
+R3
+!i122 10
+R4
+Z94 8C:/Users/eduar/OneDrive/Escritorio/UAM/EC/P2/RegsMIPSTb.vhd
+Z95 FC:/Users/eduar/OneDrive/Escritorio/UAM/EC/P2/RegsMIPSTb.vhd
+l0
+R7
+Vo<FHIZk:WMk3z1RK18Bc71
+!s100 9]BKZ;fGz;DcXWh`ZZYeA3
+R8
+33
+R57
+!i10b 1
+R75
+Z96 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/eduar/OneDrive/Escritorio/UAM/EC/P2/RegsMIPSTb.vhd|
+Z97 !s107 C:/Users/eduar/OneDrive/Escritorio/UAM/EC/P2/RegsMIPSTb.vhd|
+!i113 1
+R13
+R14
+Apractica
+R1
+R2
+R3
+DEx4 work 10 regsmipstb 0 22 o<FHIZk:WMk3z1RK18Bc71
+!i122 10
+l44
+L17 229
+VcWY]656]62`XKaenW0COC2
+!s100 38Nm3U8GQdKO0RiRgbON73
+R8
+33
+R57
+!i10b 1
+R75
+R96
+R97
+!i113 1
+R13
+R14
+Eunidadcontrol
+Z98 w1652168025
+R1
+R2
+R3
+!i122 25
+R4
+Z99 8C:/Users/eduar/Downloads/Soluciones/UnidadControl.vhd
+Z100 FC:/Users/eduar/Downloads/Soluciones/UnidadControl.vhd
+l0
+R26
+VSDgbi=XXVz`5GolnH@;J@3
+!s100 9AkC5^Zg1dNo505ZZk^ha1
+R8
+33
+R63
+!i10b 1
+R69
+Z101 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/eduar/Downloads/Soluciones/UnidadControl.vhd|
+Z102 !s107 C:/Users/eduar/Downloads/Soluciones/UnidadControl.vhd|
+!i113 1
+R13
+R14
+Abehavior
+R1
+R2
+R3
+DEx4 work 13 unidadcontrol 0 22 SDgbi=XXVz`5GolnH@;J@3
+!i122 25
+l35
+L34 23
+V:d^NNPazcl^4aQ>PgEkgL1
+!s100 :<`4UnI5c1:@7m@R21N5A2
+R8
+33
+R63
+!i10b 1
+R69
+R101
+R102
+!i113 1
+R13
+R14
+Eunidadcontroltb
+Z103 w1650443160
+R1
+R2
+R3
+!i122 26
+R4
+Z104 8C:/Users/eduar/Downloads/Soluciones/UnidadControlTb.vhd
+Z105 FC:/Users/eduar/Downloads/Soluciones/UnidadControlTb.vhd
+l0
+R18
+VTkV[DHjh[KAXh93UMKIf@0
+!s100 ci[]DN6<o2n<NKg_b5E@Z1
+R8
+33
+R63
+!i10b 1
+R69
+Z106 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/eduar/Downloads/Soluciones/UnidadControlTb.vhd|
+Z107 !s107 C:/Users/eduar/Downloads/Soluciones/UnidadControlTb.vhd|
+!i113 1
+R13
+R14
+Abehavior
+R1
+R2
+R3
+Z108 DEx4 work 15 unidadcontroltb 0 22 TkV[DHjh[KAXh93UMKIf@0
+!i122 26
+l129
+Z109 L19 170
+Z110 VEBL[=z3do5cS6::8bUhRH3
+Z111 !s100 >35bJ81;]c]X<NRng7oAA2
+R8
+33
+R63
+!i10b 1
+R69
+R106
+R107
+!i113 1
+R13
+R14

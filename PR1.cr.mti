@@ -1,0 +1,37 @@
+C:/Users/eduar/OneDrive/Escritorio/UAM/EC/P1/Deco3a8Reg.vhd {1 {vcom -work work -2008 -explicit -stats=none C:/Users/eduar/OneDrive/Escritorio/UAM/EC/P1/Deco3a8Reg.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Deco3a8Reg
+-- Compiling architecture practica of Deco3a8Reg
+
+} {} {}} C:/Users/eduar/OneDrive/Escritorio/UAM/EC/P1/Contador_Tb.vhd {1 {vcom -work work -2008 -explicit -stats=none C:/Users/eduar/OneDrive/Escritorio/UAM/EC/P1/Contador_Tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Contador_Tb
+-- Compiling architecture simulador of Contador_Tb
+
+} {} {}} C:/Users/eduar/OneDrive/Escritorio/UAM/EC/P1/Deco3a8.vhd {1 {vcom -work work -2008 -explicit -stats=none C:/Users/eduar/OneDrive/Escritorio/UAM/EC/P1/Deco3a8.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Deco3a8
+-- Compiling architecture Practica of Deco3a8
+
+} {} {}} C:/Users/eduar/OneDrive/Escritorio/UAM/EC/P1/Reg8b.vhd {1 {vcom -work work -2008 -explicit -stats=none C:/Users/eduar/OneDrive/Escritorio/UAM/EC/P1/Reg8b.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Reg8b
+-- Compiling architecture Practica of Reg8b
+
+} {} {}}
